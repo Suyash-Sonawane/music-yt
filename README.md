@@ -18,6 +18,14 @@ Frontend (HTML/CSS/JS)  →  Backend (Python Flask)  →  Spotify API (Spotipy) 
 - ▶️ **Preview Playback**: Play 30-second track previews directly in the browser
 - 📱 **Responsive Design**: Works on desktop and mobile devices
 
+## Screenshots
+
+### Recommendations Page
+![Recommendations](screenshots/Screenshot%202026-03-23%20104032.png)
+
+### Featured Playlists Page
+![Featured Playlists](screenshots/Screenshot%202026-03-23%20104044.png)
+
 ## Project Structure
 
 ```
